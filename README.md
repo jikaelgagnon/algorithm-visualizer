@@ -82,4 +82,11 @@ tree = binaryTree(tree_info=tree_info)
 Once the traversal is complete on a binary search tree, the nodes will have been traversed in non-decreasing order, since smaller children (ie. elements in left subtrees) are always marked before the root, and the root is always marked before the larger children (ie. the elements in the right subtree).
 ![binary_tree_inorder_gif](https://github.com/jikaelgagnon/algorithm-visualizer/assets/82888595/7e8f9074-88b2-489e-853a-2e6b8399bc43)
 
+### Other Functions
+Other functions include:
+- Searching a binary tree
+- Insertion into a binary tree
+- Finding the max/min in a binary tree
+
+
 
